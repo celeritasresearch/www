@@ -29,15 +29,10 @@ a:hover {
 .landing {
     margin: 100px 0;
     text-align: center;
-
 }
 
 .landing > * {
     margin: 0;
-}
-
-.landing > img {
-    width: 150px;
 }
 
 .landing > h1 {
@@ -49,3 +44,15 @@ a:hover {
     color: gray;
     margin-top: 15px;
 }
+
+.car {
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.logo {
+    width: 100px;
+}
+
