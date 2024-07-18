@@ -42,6 +42,16 @@ a:hover {
     opacity: 50%;
 }
 
+.secondary {
+    background-color: inherit;
+    color: white;
+    border: 2px solid white;
+    padding: calc(12px - 2px) calc(24px - 2px);
+}
+
+.secondary:hover {
+    border: 2px solid white;
+}
 
 .landing {
     padding: 125px 0;
